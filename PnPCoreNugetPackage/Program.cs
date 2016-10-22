@@ -13,5 +13,14 @@ namespace PnPCoreNugetPackage
 
             Console.Write("Helo");
         }
+        
+        
+        static void function1(){
+        }
+        
+        static void function2(){
+        }
+        
+        
     }
 }
