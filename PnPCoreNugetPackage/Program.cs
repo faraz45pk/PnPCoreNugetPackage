@@ -9,26 +9,7 @@ namespace PnPCoreNugetPackage
     class Program
     {
         static void Main(string[] args)
-        {
-//SORRY 1
-//SORRY 1
-//SORRY 1
-            
+        {            
         }
-
-
- 
-        static void fuunction() { }
-
-        static void fuunction3() { }
-
-    static void fuunction4() { }
-}
-
-        static void fuunction5() { }
-
-        static void fuunction6() { }
-        static void fuunction7() { }
-
     }
 }
