@@ -12,6 +12,8 @@ namespace PnPCoreNugetPackage
         static void web1() { }
         static void web2() { }
         static void web3() { }
+        static void web4() { }
+
 
         
         static void Main(string[] args)
