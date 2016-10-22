@@ -11,5 +11,12 @@ namespace PnPCoreNugetPackage
         static void Main(string[] args)
         {            
         }
+         
+        static void function1(){}
+
+        static void function2(){}
+
+        
+        
     }
 }
