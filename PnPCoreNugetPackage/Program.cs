@@ -7,7 +7,10 @@ using System.Threading.Tasks;
 namespace PnPCoreNugetPackage
 {
     class Program
-    {     
+    {
+
+        static void function4() { }
+
         static void Main(string[] args)
         {
 
