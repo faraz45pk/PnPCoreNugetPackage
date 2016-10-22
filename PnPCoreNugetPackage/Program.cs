@@ -10,7 +10,7 @@ namespace PnPCoreNugetPackage
     {
         static void Main(string[] args)
         {
-Console.WriteLine ("This is Faraz Javaid Survival");
+
         }
     }
 }
