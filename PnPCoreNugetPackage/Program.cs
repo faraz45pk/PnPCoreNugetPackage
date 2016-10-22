@@ -8,8 +8,17 @@ namespace PnPCoreNugetPackage
 {
     class Program
     {
+
+        static void function3() { }
+        static void function4() { }
+
         static void Main(string[] args)
         {            
         }
+
+
+
+
+
     }
 }
