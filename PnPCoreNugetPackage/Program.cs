@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,10 +10,7 @@ namespace PnPCoreNugetPackage
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello PnP Core Component");
-
-            Console.Read();
-
+Console.WriteLine ("This is Faraz Javaid Survival");
         }
     }
 }
