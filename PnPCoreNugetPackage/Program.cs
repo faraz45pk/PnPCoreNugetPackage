@@ -17,7 +17,7 @@ namespace PnPCoreNugetPackage
         }
 
 
-   static void fuunction 1() { }
+ 
         static void fuunction() { }
 
         static void fuunction3() { }
