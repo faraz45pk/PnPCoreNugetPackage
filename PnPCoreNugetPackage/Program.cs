@@ -8,6 +8,13 @@ namespace PnPCoreNugetPackage
 {
     class Program
     {
+
+        
+        static void web1(){}
+        static void web2(){}
+        static void web3(){}
+        
+        
         static void Main(string[] args)
         {
             Console.Write("Helo");
