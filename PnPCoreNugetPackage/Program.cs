@@ -9,8 +9,11 @@ namespace PnPCoreNugetPackage
     class Program
     {
 
-        static void function4() { }
+        static void web1() { }
+        static void web2() { }
+        static void web3() { }
 
+        
         static void Main(string[] args)
         {
 
@@ -18,11 +21,7 @@ namespace PnPCoreNugetPackage
         }
         
         
-        static void function1(){
-        }
-        
-        static void function2(){
-        }
+  
         
         
     }
