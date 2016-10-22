@@ -7,14 +7,9 @@ using System.Threading.Tasks;
 namespace PnPCoreNugetPackage
 {
     class Program
-    {
-
-     
+    {     
         static void Main(string[] args)
         {            
         }
-     
-        
-        
     }
 }
