@@ -12,5 +12,11 @@ namespace PnPCoreNugetPackage
         {
 //dddddddddddddddddddddddddddddddddd
         }
+
+
+
+        static void fuunction() { }
+
+
     }
 }
