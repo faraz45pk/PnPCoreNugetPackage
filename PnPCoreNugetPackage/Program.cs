@@ -10,8 +10,9 @@ namespace PnPCoreNugetPackage
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello PnP Core Component");
 
-
+            Console.Read();
 
         }
     }
