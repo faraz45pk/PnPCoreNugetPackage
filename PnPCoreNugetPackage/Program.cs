@@ -13,5 +13,11 @@ namespace PnPCoreNugetPackage
             Console.Write("Helo");
         }
 
+
+
+        static void visual1() { }
+        static void visual2() { }
+        static void visual3() { }
+
     }
 }
